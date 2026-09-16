@@ -1,0 +1,6 @@
+{
+    "require": {
+        "smalot/pdfparser": "*",
+        "firebase/php-jwt": "^7.1"
+    }
+}
